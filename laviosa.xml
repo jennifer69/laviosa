@@ -22,7 +22,7 @@
                     <field name="OP">MULTIPLY</field>
                     <value name="A">
                       <block type="math_number" id="8">
-                        <field name="NUM">66666666</field>
+                        <field name="NUM">666666</field>
                       </block>
                     </value>
                     <value name="B">
